@@ -31,15 +31,19 @@ Removing the ninth graders' math and reading scores decreased Thomas High School
 #### Math and reading scores by grade
 
 Old Math Scores by Grade:
+
 ![image](https://user-images.githubusercontent.com/92401000/142739628-34469f3d-e6e4-45e5-8a5c-b4464dbfce31.png)
 
 Old Reading Scores by Grade:
+
 ![image](https://user-images.githubusercontent.com/92401000/142739645-97ad367c-a366-4c08-89ab-d286a45b5e54.png)
 
 New Math Scores by Grade:
+
 ![image](https://user-images.githubusercontent.com/92401000/142739680-93256da1-da81-4903-baa8-b91d1c20e1e4.png)
 
 New Reading Scores by Grade:
+
 ![image](https://user-images.githubusercontent.com/92401000/142739701-4833ad2b-212d-4876-99c7-2b53d9354396.png)
 
 There was no changes to the other 14 school's math or reading scores. The only change was Thomas High School's math and reading scores for ninth grade. The math scores for Thomas High School ninth grade changed from 83.6 to "nan" and the reading scores for changed from 83.7 to "nan".
