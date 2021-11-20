@@ -9,6 +9,7 @@ The school board has notified us that the students_complete.csv file shows evide
 ### How is the district summary affected?
 Old District Summary:
 ![image](https://user-images.githubusercontent.com/92401000/142738766-a7a2a5c4-34a0-4e23-901e-1eaf40025944.png)
+
 New District Summary:
 ![image](https://user-images.githubusercontent.com/92401000/142738808-b9a38194-a530-48aa-8650-49a6ead99e84.png)
 
@@ -27,7 +28,8 @@ All the other schools stats stayed the same besides Thomas High School. The new 
 Removing the ninth graders' math and reading scores decreased Thomas High School's % Passing Math, % Passing Reading, and % Overall Passing by (-0.08%), (-0.29%), and (-0.32%) respectively.
 
 ### How does replacing the ninth-grade scores affect the following:
-- Math and reading scores by grade
+#### Math and reading scores by grade
+
 Old Math Scores by Grade:
 ![image](https://user-images.githubusercontent.com/92401000/142739628-34469f3d-e6e4-45e5-8a5c-b4464dbfce31.png)
 
@@ -42,10 +44,10 @@ New Reading Scores by Grade:
 
 There was no changes to the other 14 school's math or reading scores. The only change was Thomas High School's math and reading scores for ninth grade. The math scores for Thomas High School ninth grade changed from 83.6 to "nan" and the reading scores for changed from 83.7 to "nan".
 
-- Scores by school spending
+#### Scores by school spending
 
-- Scores by school size
+#### Scores by school size
 
-- Scores by school type
+#### Scores by school type
 
 ## Summary
