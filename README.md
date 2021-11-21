@@ -50,8 +50,22 @@ There was no changes to the other 14 school's math or reading scores. The only c
 
 #### Scores by school spending
 
+![image](https://user-images.githubusercontent.com/92401000/142745727-4e7bb8a7-fc69-43ca-a582-859fbf07da09.png)
+
+Replacing the ninth-grade scores had no affect on school spending based on scores.
+
 #### Scores by school size
+
+![image](https://user-images.githubusercontent.com/92401000/142745840-7351242b-53b0-4c7c-b9b8-2010980f8bce.png)
+
+Replacing the ninth-grade scores had no affect on scores by school size.
 
 #### Scores by school type
 
+![image](https://user-images.githubusercontent.com/92401000/142745867-02ac7b4e-cdba-450e-8569-73d5030d0f2e.png)
+
+Replacing the ninth-grade scores had no affect on scores by school type.
+
 ## Summary
+
+After reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs the new district summary had a lower percentage in % passing math (-0.2%), lower percentage in % passing reading (-0.3%), and lower percentage in % overall passing (-0.1%). Also, in the school summary the new % Passing Math for Thomas High School decreased by (-0.08%), % Passing Reading decreased by (-0.29%), and % Overall Passing decreased by (-0.32%). In the new math and reading scores by grade, the math scores for Thomas High School ninth grade changed from 83.6 to "nan" and the reading scores for changed from 83.7 to "nan".
